@@ -1,2 +1,2 @@
 # hello-world
-repo
+Im here to learn to be better
